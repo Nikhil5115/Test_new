@@ -6,4 +6,6 @@ for i in [7,6,8,7]:
     print(i)
 for i in [7,6,8,7]:
     print(i+1)
+for i in [7,6,8,7]:
+    print(i+1+3)
 
